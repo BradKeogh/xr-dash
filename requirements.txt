@@ -7,9 +7,6 @@ ipython
 jupyter
 pandas==0.24.0
 panel==0.6.0
-pip
-pyjanitor==0.18.0
-scikit-learn==0.21.2
 
 # these were from my windows requirements file
 # bokeh ==1.2.0
