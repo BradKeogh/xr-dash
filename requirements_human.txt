@@ -1,0 +1,21 @@
+# For deployment environment - those in first list were from eric ma repo.
+bokeh==1.2.0
+dask==2.6.0
+holoviews==1.12.3
+hvplot
+ipython
+jupyter
+pandas==0.24.0
+panel==0.6.0
+
+# these were from my windows requirements file
+# bokeh ==1.2.0
+# datashader ==0.7.0
+# matplotlib
+# notebook
+# numpy ==1.16.4
+# pandas ==0.24.0
+# # python ==3.6
+# xlrd
+# pyviz
+# hvplot
