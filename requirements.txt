@@ -1,5 +1,5 @@
 # For deployment environment - those in first list were from eric ma repo.
-# heroku web deployment is using python 3.10.6
+# heroku web deployment is using python 3.6.10
 bokeh==1.2.0
 dask==2.6.0
 holoviews==1.12.3
