@@ -1,1 +1,1 @@
-web: panel serve --address="0.0.0.0" --port=$PORT home.py --allow-websocket-origin=xr-dash.herokuapp.com
+web: panel serve --address="0.0.0.0" --port=$PORT main.py --allow-websocket-origin=xr-dash.herokuapp.com

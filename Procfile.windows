@@ -1,1 +1,1 @@
-web: panel serve home.py
+web: panel serve main.py
